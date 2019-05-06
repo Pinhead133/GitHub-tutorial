@@ -1,5 +1,7 @@
 net install dm67_4, from(http://www.stata-journal.com/software/sj15-4)
 
+*változtatás
+
 * install tabout version 2
 ssc install tabout
 * tabout version 3 cannot be installed from SSC
